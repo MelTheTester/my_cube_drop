@@ -153,7 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.unity.boxDrop
+    Android: com.unity3d.squizgrom
     iOS: com.unity.boxDrop
   buildNumber: {}
   AndroidBundleVersionCode: 1
