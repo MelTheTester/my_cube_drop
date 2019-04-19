@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5C0DCDF5-8216-B4AA-2A9C-3FD8525C8503}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/drop_cube.cs">
+    <Files>
+      <File FileName="Assets/drop_cube.cs" Line="4" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

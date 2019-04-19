@@ -17,8 +17,12 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 6e17d7e3c070f4a34b9c281586538f86
   m_SerializeEntries:
+  - m_GUID: bb8b61293d49f4c4391aecdecbb46f05
+    m_Address: Orange
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: e0b89d39ea47448f1ae59d8192c75e36
-    m_Address: Assets/New Material.mat
+    m_Address: Purple
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

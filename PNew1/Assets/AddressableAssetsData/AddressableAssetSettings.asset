@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: 6e17d7e3c070f4a34b9c281586538f86
-  m_BuildRemoteCatalog: 1
+  m_BuildRemoteCatalog: 0
   m_RemoteCatalogBuildPath:
     m_Id: 7c21ebd14c2f64cfeb9de8410b0d00fd
   m_RemoteCatalogLoadPath:
@@ -37,7 +37,7 @@ MonoBehaviour:
       - m_Id: 2e5f9312b2e304ddc9969e8a0241e8dc
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: 6a5b668316ed147ee918aa3cf57c0946
-        m_Value: Assets/StreamingAssets/aa/[BuildTarget]
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: 66cdd0e89379043dfae3051eea3d31f0
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 7c21ebd14c2f64cfeb9de8410b0d00fd
@@ -64,16 +64,9 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
-  m_SchemaTemplates:
-  - m_DisplayName: Packed Assets
-    m_Description: Pack assets into asset bundles.
-    m_SchemaTypes:
-    - m_AssemblyName: Unity.Addressables.Editor, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      m_ClassName: UnityEditor.AddressableAssets.Settings.GroupSchemas.BundledAssetGroupSchema
-    - m_AssemblyName: Unity.Addressables.Editor, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      m_ClassName: UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 443a602843f334172886da760a5ac231, type: 2}
   m_InitializationObjects: []
   m_ActivePlayerDataBuilderIndex: 3
   m_ActivePlayModeDataBuilderIndex: 2
